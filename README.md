@@ -1,7 +1,7 @@
 
 
 # Hajj & Umrah RAG System  
-A Question-Answering System for Hajj and Umrah Using Retrieval-Augmented Generation (RAG)
+A Question-Answering System for  Hajj and Umrah Using Retrieval-Augmented Generation (RAG)
 
 This system is educational/academic and should not be considered a source of religious rulings (fatwas).  
 It serves as a technical demonstration of the RAG concept in a religious context.
