@@ -1,0 +1,93 @@
+[
+  {
+    "id": "hajj_001",
+    "title": "Pillars of Hajj",
+    "category": "Hajj Basics",
+    "content": "The five pillars (Arkan) of Hajj are obligatory acts without which Hajj is invalid: 1) Ihram - Entering the sacred state with intention from the Miqat. 2) Wuquf at Arafat - Standing in the plains of Arafat on the 9th of Dhul Hijjah from noon until sunset. This is the most essential pillar. 3) Tawaf al-Ifadah - Seven circuits around the Kaaba performed after returning from Mina. 4) Sa'i - Walking seven times between Safa and Marwa hills. 5) Halq or Taqsir - Shaving the head (for men) or cutting hair (for men and women).",
+    "tags": ["pillars", "arkan", "obligatory", "fard"]
+  },
+  {
+    "id": "hajj_002",
+    "title": "What is Ihram",
+    "category": "Ihram",
+    "content": "Ihram is the sacred state a Muslim enters before performing Hajj or Umrah. It involves both physical and spiritual preparation. For men, Ihram clothing consists of two white unstitched pieces of cloth - one wrapped around the waist (Izar) and one draped over the shoulder (Rida). Women wear modest clothing covering the entire body except the face and hands. The state of Ihram begins with the intention (Niyyah) and recitation of Talbiyah at the Miqat boundary.",
+    "tags": ["ihram", "clothing", "miqat", "intention"]
+  },
+  {
+    "id": "hajj_003",
+    "title": "Prohibitions During Ihram",
+    "category": "Ihram",
+    "content": "While in the state of Ihram, certain acts become prohibited (Mahzurat): 1) Wearing sewn clothes for men. 2) Covering the head for men or face for women (according to majority). 3) Using perfume or scented products. 4) Cutting or removing hair from any part of the body. 5) Clipping nails. 6) Hunting or killing land animals. 7) Intimate relations between spouses. 8) Contracting marriage. 9) For men, wearing shoes that cover the ankle. Violating these prohibitions may require fidyah (expiation).",
+    "tags": ["prohibitions", "mahzurat", "forbidden", "restrictions"]
+  },
+  {
+    "id": "hajj_004",
+    "title": "Tawaf - Circumambulation",
+    "category": "Rituals",
+    "content": "Tawaf is the act of circling the Kaaba seven times in a counter-clockwise direction. There are several types: Tawaf al-Qudum (arrival tawaf - Sunnah), Tawaf al-Ifadah (obligatory pillar), and Tawaf al-Wida (farewell tawaf - obligatory for non-Makkah residents). Each circuit begins and ends at the Black Stone (Hajar al-Aswad). Pilgrims should be in a state of wudu (ablution). Men should perform first three circuits at a brisk pace (Raml) and uncover right shoulder (Idtiba). After Tawaf, pray two rakahs at Maqam Ibrahim.",
+    "tags": ["tawaf", "kaaba", "circumambulation", "black stone"]
+  },
+  {
+    "id": "hajj_005",
+    "title": "Sa'i Between Safa and Marwa",
+    "category": "Rituals",
+    "content": "Sa'i is walking seven times between the hills of Safa and Marwa, commemorating Hajar's (Hagar's) search for water for her infant son Ismail. The journey from Safa to Marwa counts as one lap, and returning from Marwa to Safa is the second lap, totaling seven laps ending at Marwa. The distance is approximately 450 meters one way. Men should run between the two green lights (Raml). This ritual reminds pilgrims of Hajar's trust in Allah and her perseverance. The Zamzam well miraculously appeared after this trial.",
+    "tags": ["sai", "safa", "marwa", "hajar", "zamzam"]
+  },
+  {
+    "id": "hajj_006",
+    "title": "Day of Arafat",
+    "category": "Hajj Days",
+    "content": "The 9th of Dhul Hijjah, the Day of Arafat, is the most important day of Hajj. The Prophet (peace be upon him) said: 'Hajj is Arafat.' Pilgrims must be present within the boundaries of Arafat from noon (Dhuhr) until sunset (Maghrib). Being in Arafat even for a moment during this time fulfills the pillar. Pilgrims stand in worship, making dua, seeking forgiveness, and remembering Allah. It is a day when Allah frees many people from Hellfire. Missing Arafat means missing Hajj entirely for that year.",
+    "tags": ["arafat", "wuquf", "standing", "9th dhul hijjah"]
+  },
+  {
+    "id": "hajj_007",
+    "title": "Muzdalifah Night",
+    "category": "Hajj Days",
+    "content": "After sunset on the Day of Arafat, pilgrims proceed to Muzdalifah (between Arafat and Mina). They spend the night under the open sky, praying and resting. The Maghrib and Isha prayers are combined and shortened, prayed at Isha time. Pilgrims collect small pebbles (49 or 70 depending on how many days they'll stay in Mina) for the stoning ritual. The night in Muzdalifah is Wajib (obligatory), though the sick, elderly, women, and children may leave after midnight. Pilgrims leave for Mina before Fajr.",
+    "tags": ["muzdalifah", "night", "pebbles", "prayers"]
+  },
+  {
+    "id": "hajj_008",
+    "title": "Eid Day and Stoning",
+    "category": "Hajj Days",
+    "content": "The 10th of Dhul Hijjah is Yawm al-Nahr (Day of Sacrifice/Eid al-Adha). Pilgrims perform several acts: 1) Stone Jamarat al-Aqaba (the largest pillar) with 7 pebbles after sunrise. 2) Offer sacrifice (Qurbani) - slaughtering a sheep, goat, or sharing a camel/cow. 3) Shave or trim hair - men shave (Halq, preferable) or trim (Taqsir), women cut a fingertip's length. 4) Perform Tawaf al-Ifadah and Sa'i. After these, most Ihram restrictions are lifted (Tahallul al-Awwal), except intimate relations until Tawaf al-Ifadah is completed.",
+    "tags": ["eid", "sacrifice", "stoning", "jamarat", "10th dhul hijjah"]
+  },
+  {
+    "id": "hajj_009",
+    "title": "Days of Tashriq in Mina",
+    "category": "Hajj Days",
+    "content": "The 11th, 12th, and 13th of Dhul Hijjah are called Ayyam al-Tashriq (Days of Tashriq). Pilgrims stay in Mina and stone all three Jamarat (small, medium, and large) daily. Each Jamra is stoned with 7 pebbles, totaling 21 pebbles per day. Stoning times: after Dhuhr until before Fajr the next day. Order: small (Sughra), medium (Wusta), then large (Aqaba). Pilgrims can leave after stoning on the 12th if they depart before sunset, or stay until the 13th (preferable). These days should be spent in worship, dhikr, and remembrance of Allah.",
+    "tags": ["tashriq", "mina", "stoning", "11th", "12th", "13th"]
+  },
+  {
+    "id": "umrah_001",
+    "title": "Steps of Umrah",
+    "category": "Umrah",
+    "content": "Umrah (the minor pilgrimage) consists of four main acts: 1) Enter Ihram at the Miqat with intention for Umrah, wear Ihram garments, and recite Talbiyah. 2) Perform Tawaf - circle the Kaaba seven times, starting from the Black Stone. 3) Perform Sa'i - walk seven times between Safa and Marwa. 4) Tahallul - men shave (Halq) or shorten (Taqsir) their hair, women cut a fingertip's length. After completing these, all Ihram restrictions are lifted. Umrah can be performed any time of the year, though it's especially meritorious during Ramadan.",
+    "tags": ["umrah", "minor pilgrimage", "steps", "procedures"]
+  },
+  {
+    "id": "hajj_010",
+    "title": "Miqat Boundaries",
+    "category": "Preparation",
+    "content": "Miqat are the designated boundaries where pilgrims must enter Ihram before crossing. The five main Miqats are: 1) Dhul-Hulayfah (also called Abar Ali) - for people coming from Madinah, about 450km from Makkah. 2) Al-Juhfah - for people from Syria, Egypt, and the West. 3) Qarn al-Manazil (also called Al-Sail al-Kabir) - for people from Najd in central Arabia. 4) Yalamlam - for people coming from Yemen and the South. 5) Dhat Irq - for people coming from Iraq and the East. Those living within these boundaries enter Ihram from their homes.",
+    "tags": ["miqat", "boundaries", "ihram location"]
+  },
+  {
+    "id": "hajj_011",
+    "title": "Types of Hajj",
+    "category": "Hajj Types",
+    "content": "There are three types of Hajj: 1) Tamattu - Most common and recommended. Perform Umrah first, exit Ihram, then enter Ihram again for Hajj on 8th Dhul Hijjah. Requires sacrifice (Hady). 2) Qiran - Perform Umrah and Hajj together with one Ihram. Remain in Ihram until completing both. Requires sacrifice. 3) Ifrad - Perform only Hajj. Enter Ihram with intention for Hajj only. No sacrifice required. Each type has its own rulings regarding when to perform Tawaf, Sa'i, and other rituals. Tamattu provides more ease as pilgrims can rest between Umrah and Hajj.",
+    "tags": ["tamattu", "qiran", "ifrad", "types of hajj"]
+  },
+  {
+    "id": "hajj_012",
+    "title": "Farewell Tawaf",
+    "category": "Rituals",
+    "content": "Tawaf al-Wida (Farewell Tawaf) is the final Tawaf performed before leaving Makkah. It is Wajib (obligatory) for all pilgrims except menstruating women and residents of Makkah. It should be the last act in Makkah - no activities should come after it except necessary departure preparations. If one stays in Makkah for business or other activities after Tawaf al-Wida, it must be repeated. This Tawaf is a way to bid farewell to the Sacred House. Missing it without valid excuse requires offering a sacrifice (Dam).",
+    "tags": ["farewell tawaf", "tawaf al-wida", "departure"]
+  }
+]
